@@ -3,3 +3,6 @@
 ```
 python openpose.py --input image.jpg
 ```
+## Project Status
+
+This project demonstrates human pose estimation using Python, OpenCV, and TensorFlow.
